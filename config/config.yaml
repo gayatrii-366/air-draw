@@ -1,0 +1,11 @@
+thresholds:
+  pinch: 0.04
+  smoothing: 0.1
+
+colours:
+  - [255, 0, 0]
+  - [0, 255, 0]
+  - [0, 0, 255]
+
+draw:
+  thickness: 6
