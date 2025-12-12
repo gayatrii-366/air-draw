@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Python](https://img.shields.io/badge/python-3.10-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-enabled-orange)
+![Mediapipe](https://img.shields.io/badge/mediapipe-hands-red)
+
+
 # air-draw
 
 **Air-draw** — touchless drawing with index finger (prototype).
