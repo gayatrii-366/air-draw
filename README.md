@@ -2,7 +2,7 @@
 
 **Air-draw** — touchless drawing with index finger (prototype).
 
-## Quick start (Phase 0)
+## Quick start
 1. Clone this repo.
 2. Create a virtual environment (recommended).
 3. Install dependencies:
