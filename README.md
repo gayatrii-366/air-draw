@@ -17,5 +17,4 @@ python proto.py
 - Uses MediaPipe Hands + OpenCV.
 - Shows a green dot on the index fingertip in the webcam view.
 
-## Next steps
-Phase 1: mapping & persistent drawing, branching & CI.
+
